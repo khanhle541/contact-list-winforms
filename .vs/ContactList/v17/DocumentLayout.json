@@ -1,22 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\khanhlequy\\contact-list-winforms\\",
+  "WorkspaceRootPath": "D:\\ContactList\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A40DB1BC-13F8-4A96-91E4-8EC5EDE08333}|ContactList\\ContactList.csproj|c:\\khanhlequy\\contact-list-winforms\\contactlist\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A40DB1BC-13F8-4A96-91E4-8EC5EDE08333}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A40DB1BC-13F8-4A96-91E4-8EC5EDE08333}|ContactList\\ContactList.csproj|C:\\khanhlequy\\contact-list-winforms\\contactlist\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A40DB1BC-13F8-4A96-91E4-8EC5EDE08333}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A40DB1BC-13F8-4A96-91E4-8EC5EDE08333}|ContactList\\ContactList.csproj|C:\\khanhlequy\\contact-list-winforms\\contactlist\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A40DB1BC-13F8-4A96-91E4-8EC5EDE08333}|ContactList\\ContactList.csproj|d:\\contactlist\\contactlist\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A40DB1BC-13F8-4A96-91E4-8EC5EDE08333}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A40DB1BC-13F8-4A96-91E4-8EC5EDE08333}|ContactList\\ContactList.csproj|C:\\khanhlequy\\contact-list-winforms\\contactlist\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A40DB1BC-13F8-4A96-91E4-8EC5EDE08333}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A40DB1BC-13F8-4A96-91E4-8EC5EDE08333}|ContactList\\ContactList.csproj|D:\\ContactList\\contactlist\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A40DB1BC-13F8-4A96-91E4-8EC5EDE08333}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,51 +22,28 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AddContactForm.cs",
-              "DocumentMoniker": "C:\\khanhlequy\\contact-list-winforms\\ContactList\\AddContactForm.cs",
-              "RelativeDocumentMoniker": "ContactList\\AddContactForm.cs",
-              "ToolTip": "C:\\khanhlequy\\contact-list-winforms\\ContactList\\AddContactForm.cs",
-              "RelativeToolTip": "ContactList\\AddContactForm.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAtwBYAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\ContactList\\ContactList\\MainForm.cs",
+              "RelativeDocumentMoniker": "ContactList\\MainForm.cs",
+              "ToolTip": "D:\\ContactList\\ContactList\\MainForm.cs",
+              "RelativeToolTip": "ContactList\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T03:29:48.309Z",
+              "WhenOpened": "2025-05-27T06:13:58.401Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AddContactForm.cs [Design]",
-              "DocumentMoniker": "C:\\khanhlequy\\contact-list-winforms\\ContactList\\AddContactForm.cs",
-              "RelativeDocumentMoniker": "ContactList\\AddContactForm.cs",
-              "ToolTip": "C:\\khanhlequy\\contact-list-winforms\\ContactList\\AddContactForm.cs [Design]",
-              "RelativeToolTip": "ContactList\\AddContactForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T03:27:47.757Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainForm.cs",
-              "DocumentMoniker": "C:\\khanhlequy\\contact-list-winforms\\ContactList\\MainForm.cs",
-              "RelativeDocumentMoniker": "ContactList\\MainForm.cs",
-              "ToolTip": "C:\\khanhlequy\\contact-list-winforms\\ContactList\\MainForm.cs",
-              "RelativeToolTip": "ContactList\\MainForm.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAIA9wB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T06:13:58.401Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "MainForm.cs [Design]",
-              "DocumentMoniker": "C:\\khanhlequy\\contact-list-winforms\\ContactList\\MainForm.cs",
+              "DocumentMoniker": "D:\\ContactList\\ContactList\\MainForm.cs",
               "RelativeDocumentMoniker": "ContactList\\MainForm.cs",
-              "ToolTip": "C:\\khanhlequy\\contact-list-winforms\\ContactList\\MainForm.cs [Design]",
+              "ToolTip": "D:\\ContactList\\ContactList\\MainForm.cs [Design]",
               "RelativeToolTip": "ContactList\\MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T06:10:39.347Z"
+              "WhenOpened": "2025-05-27T06:10:39.347Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
