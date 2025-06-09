@@ -10,22 +10,17 @@ using System.Windows.Forms;
 
 namespace ContactList
 {
-    public partial class Form1 : Form
+    public partial class AddContactForm : Form
     {
-        public Form1()
+        public AddContactForm()
         {
             InitializeComponent();
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void button1_Click(object sender, EventArgs e)
         {
-            AddContactForm form = new AddContactForm();
-            form.ShowDialog();
+            MessageBox.Show("Đã lưu liên hệ:\nHọ tên: " + textBox1.Text + "\nSDT: " + textBox2.Text);
+            this.Close();
         }
     }
 }
